@@ -1,0 +1,89 @@
+cd <move to working directory>
+git clone https://github.com/venkatkrp/Onlineapp.git <where do you want >
+git version
+our name and email address
+$ git config --global user.name "venkatkrp"
+$ git config --global user.email "venkatkrp@gmail.com"
+
+# more optional git config stuff
+$ git config --global core.editor vim
+$ git config --global merge.tool vim
+
+git config --global user.name "venkatkrp"
+git config --global user.email "venkatkrp@gmail.com"
+git config --list 
+
+# show all git configurations
+$ git config --list
+
+# show a specific key
+$ git config user.name
+
+
+
+git help <verb>
+git init
+git remote add origin https://github.com/venkatkrp/Onlineapp.git
+https://github.com/venkatkrp/SampleWebAppDemo.git
+git remote add origin https://github.com/venkatkrp/SampleWebAppDemo.git
+git add -A (or specfic file) -A/--all 
+---------------
+git add -A ====stages All
+git add . =====stages new and modified, without deleted
+git add -u ====stages modified and deleted, without new-
+-----------------
+git status
+git reset (before commit command"
+git commit -m "message"
+git pull origin master
+git push origin master
+
+git branch <New-branchname>
+git checkout branch
+git branch 
+Change text file 
+git commit -m "change commit"
+git comment --amend -m "change commit comment"
+git push -u origin feature <branch name>
+=====
+Merge code to master branch
+git checkout  master
+git pull origin master
+git branch --merged
+git merge <branchname>
+git push origin mastger
+
+--delete branch
+git branch -d <branch name>
+git push origin --delete <branch name>
+
+
+git diff 
+
+# create new file
+$ touch sample
+
+# add file to staging area
+$ git add sample
+
+# commit the file
+$ git commit -m sample sample
+
+$ git status
+Lists all new or modified files to be commited
+$ git add [file]
+Snapshots the file in preparation for versioning
+$ git reset [file]
+Unstages the file, but preserve its contents
+$ git diff
+Shows file differences not yet staged
+$ git diff --staged
+Shows file differences between staging and the last file version
+$ git commit -m "[descriptive message]"
+Records file snapshots permanently in version histor
+
+
+
+
+
+
