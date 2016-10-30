@@ -1,0 +1,13 @@
+Searchin 
+git lg --follow  <file name>
+git lg --follow  --patch <file name>
+git lg -S<fILENAME> <Uppercase "S")
+
+git -lg --author="Venkatkrp"
+
+git branch --all
+git show-ref --heads
+Fast forward merge and True merge
+cherry branching
+
+git merge --abort
