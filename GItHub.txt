@@ -2,6 +2,6 @@ GitHub
 Getting Setup with GitHub
 Project Colobraton
 Readme,
-Organisation and accounts  and colobration
+Organisation
 Pages - Setting -Auto generate pagess
 This is to add and test branch file
