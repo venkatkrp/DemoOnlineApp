@@ -10,4 +10,6 @@ git show-ref --heads
 Fast forward merge and True merge
 cherry branching
 
-git merge --abort
+git merge --abortgit merge --abort
+adding line to commit
+adding line to commit
