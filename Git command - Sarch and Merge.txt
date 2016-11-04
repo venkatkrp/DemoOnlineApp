@@ -4,6 +4,8 @@ git lg --follow  --patch <file name>
 git lg -S<fILENAME> <Uppercase "S")
 
 git -lg --author="Venkatkrp"
+adding line to save later
+adding line to save later
 
 git branch --all
 git show-ref --heads
@@ -11,3 +13,5 @@ Fast forward merge and True merge
 cherry branching
 
 git merge --abort
+adding line to commit
+adding line to commit

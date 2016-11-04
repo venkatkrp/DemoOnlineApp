@@ -12,13 +12,17 @@ $ git config --global merge.tool vim
 git config --global user.name "venkatkrp"
 git config --global user.email "venkatkrp@gmail.com"
 git config --list 
-
+channes here 
+channes here 
+channes here 
 # show all git configurations
 $ git config --list
 
 # show a specific key
 $ git config user.name
-
+channes here II
+channes here II 
+channes here II
 
 
 git help <verb>
@@ -59,6 +63,8 @@ git push origin --delete <branch name>
 
 
 git diff 
+channes here III channes here III channes here III
+channes here III channes here III channes here III
 
 # create new file
 $ touch sample
